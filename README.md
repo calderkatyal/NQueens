@@ -1,2 +1,2 @@
 # NQueens
-A simple project in java
+This is a simple project in Java that takes in a natural number N from the user and determines whether it is possible to place N queens on an N x N board such that no two queens can capture each other. 
